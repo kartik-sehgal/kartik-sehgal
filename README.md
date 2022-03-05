@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @kartiksehgal96
-- 👀 I’m interested in learning ethics of working 
-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me ... 
+- 👋 Hi, I’m @kartik-sehgal
+- 👀 I love to share my knowledge and learn new things
+- 💞️ Talk to me anything Python, SQL, and Java
+- 📫 Email me at kartiksehgal96@gmail.com 
 
 <!---
 kartiksehgal96/kartiksehgal96 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
